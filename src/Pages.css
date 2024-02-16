@@ -1,0 +1,29 @@
+body {
+    background-color: #838995;
+}
+
+.container {
+    display: flex;
+}
+
+.carouselText {
+    padding: 0 30px;
+}
+
+.h1c {
+    color: #5AD767;
+    font-size: 7vw;
+}
+
+.p1c {
+    color: #DBFCE7;
+    font-size: 3vw;
+}
+
+.socials {
+    color: #DBFCE7;
+}
+
+.socials:hover {
+    color: #5AD767;
+}

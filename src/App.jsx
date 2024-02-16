@@ -1,11 +1,13 @@
-import Header from "./components/Header"
-import Navbar from "./components/Navbar"
+import Navbar from "./components/Navbar";
+import Home from "./Home";
 
 function App() {
   return (
     <>
       <Navbar />
-      <Header />
+      <Home />
+      {/* <ProjectGallery />
+      <Contact />  */}
     </>
   )
 }
