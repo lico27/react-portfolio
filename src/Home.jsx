@@ -13,7 +13,7 @@ function Home() {
           <img src={Pfp} style={{ height: "200px", borderRadius: "125px" }}/>
           <div className="carouselText">
           <h1 className="h1c">Liam Cottrell</h1>
-          <p className="p1c">Web developer based in the UK<br />Welcome to my portfolio!</p>
+          <p className="p1c">Web developer based in the UK<br />Welcome to my portfolio</p>
           </div>
         </div>
 
