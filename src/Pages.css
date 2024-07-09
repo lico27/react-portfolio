@@ -1,23 +1,14 @@
-body {
-    background-color: #838995;
+.hero {
+    background-color: #272E36;
+    padding: 0px;
 }
 
-.container {
-    display: flex;
-}
-
-.carouselText {
-    padding: 0 30px;
-}
-
-.h1c {
+#greeting {
     color: #5AD767;
-    font-size: 7vw;
 }
 
-.p1c {
+p {
     color: #DBFCE7;
-    font-size: 3vw;
 }
 
 .socials {
